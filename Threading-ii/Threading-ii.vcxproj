@@ -23,7 +23,7 @@
     <ProjectGuid>{1BE05E75-9CB6-414D-92EF-F23682A199B2}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Threadingii</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectName>03.Threading-ii</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

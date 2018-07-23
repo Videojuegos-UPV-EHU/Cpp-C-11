@@ -23,7 +23,7 @@
     <ProjectGuid>{EED87A41-ACD1-4EE3-8CD4-FAD33AD22DF7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Time</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectName>01.Time</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
